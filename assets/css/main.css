@@ -744,7 +744,7 @@ section,
 
 .hero .image-container {
   position: relative;
-  max-width: 500px;
+  max-width: 280px;
   width: 100%;
 }
 
@@ -753,6 +753,7 @@ section,
   box-shadow: 0 20px 60px color-mix(in srgb, var(--default-color), transparent 85%);
   position: relative;
   z-index: 2;
+  height: 500px;
 }
 
 .hero .image-overlay {
